@@ -7,5 +7,7 @@ The languages I've learned so far are HTML, CSS, Javascript, Python / Django, an
 I've also been learning about software development, web development / design, and game development / design.
 I'm passionate about accessibility, design, and storytelling.
 
+If you want to see more of my art work, check out my [Instagram](https://www.instagram.com/roryhackney/) or my [Portfolio](http://www.rorystories.com/).
+
 Thanks for reading, and have a great day!
 -Rory
