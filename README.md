@@ -5,7 +5,7 @@ I've been learning code on my own for a few years now, but now I'm working on ma
 
 The languages I've learned so far are HTML, CSS, Javascript, Python / Django, and PHP.
 I've also been learning about software development and web development / design, and studying game development / design on my own.
-I'm passionate about accessibility, color theory, and storytelling.
+I'm passionate about accessibility, design, and storytelling.
 
 If you want to see my art, check out my [Instagram](https://www.instagram.com/roryhackney/) or my [Portfolio](http://www.rorystories.com/).
 
