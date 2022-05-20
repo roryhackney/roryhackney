@@ -1,13 +1,12 @@
 Hi, I'm Rory Hackney.
 I'm a web developer, programmer, and artist from Seattle, WA.
-I'm currently in the Web Development Certificate program at Seattle Central, and I have a BFA in Comic Art from the Minneapolis College of Art and Design.
+I have a certificate in Web Development, as well as other tech coursework, plus a BFA in Comic Art and a passion for design.
 I've been learning code on my own for a few years now, but now I'm working on making it my profession.
 
-The languages I've learned so far are HTML, CSS, Javascript, Python / Django, and PHP.
-I've also been learning about software development and web development/design.
-I'm passionate about accessibility, design, and storytelling.
+I'm strongest in PHP, JavaScript, SQL, HTML, CSS, and Bulma, and have also learned some Django, React, and Wordpress. I just completed my portfolio, which you can see at [https://www.roryhackney.com](https://www.roryhackney.com), and I'm currently studying to improve my React skills.
 
-If you want to see my art, check out my [Instagram](https://www.instagram.com/roryhackney/) or my [Portfolio](http://www.rorystories.com/).
+I'm currently looking for an entry level position in web or application development.
+If you'd like to contact me, my email is roryhackney@gmail.com, and my phone is 206 488 5437.
 
 Thanks for reading, and have a great day!
 
