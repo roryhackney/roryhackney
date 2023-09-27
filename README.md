@@ -1,13 +1,15 @@
 Hi, I'm Rory Hackney.
-I'm a web developer, programmer, and artist from Seattle, WA.
-I have a certificate in Web Development, as well as other tech coursework, plus a BFA in Comic Art and a passion for design.
-I've been learning code on my own for a few years now, but now I'm working on making it my profession.
+I'm a software developer, web developer, and artist from Seattle, WA.
 
-I'm strongest in PHP, JavaScript, SQL, HTML, CSS, and Bulma, and have also learned some Django, React, and Wordpress. I just completed my portfolio, which you can see at [https://www.roryhackney.com](https://www.roryhackney.com), and I'm currently studying to improve my React skills.
+I'm currently studying Computer Science and have a certificate in Web Development, as well as a BFA in Comic Art. I also enjoy studying interactive storytelling and game development.
+After taking some programming classes, I got excited about software development, and am working to build a career in the field while I complete my Bachelors in Computer Science.
+I hope to work on software that connects to my arts background, but enjoy building all kinds of tech projects. Right now I'm working on an art supply collection tracker with types defined by users.
 
-I'm currently looking for an entry level position in web or application development.
+I'm strongest in Java, Python, PHP, HTML, CSS, JavaScript, SQL, and Bulma. I recently launched my portfolio, which you can see at [https://www.roryhackney.com](https://www.roryhackney.com), and I'm currently studying to improve my understanding of CS theory.
+
+I'm currently looking for an internship in computer science for Summer 2024, and am open to part time work that can accommodate my evening courses during the school year.
 If you'd like to contact me, my email is roryhackney@gmail.com, and my phone is 206 488 5437.
 
-Thanks for reading, and have a great day!
+Thanks for your time, and have a great day!
 
 -Rory
